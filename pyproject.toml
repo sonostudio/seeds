@@ -1,0 +1,15 @@
+[project]
+name = "data-visualization"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "colour>=0.1.5",
+    "install-jdk>=1.1.0",
+    "matplotlib>=3.10.8",
+    "py5>=0.10.9a1",
+    "py5jupyter>=0.2.1a0",
+    "shapely>=2.1.2",
+    "svgpathtools>=1.7.2",
+    "trimesh>=4.11.0",
+]
